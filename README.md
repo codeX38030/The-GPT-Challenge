@@ -44,7 +44,7 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 - Returns: disease name, confidence score, symptoms, causes, step-by-step treatment, prevention tips
 - **Healthy crop detection** — correctly identifies healthy crops and returns a "No Disease Detected" result (no false positives)
 
-### Sound Diagnosis
+### Machinery Sound Diagnosis
 - Record up to 10 seconds of machinery audio
 - On-device MFCC extraction + audio classification
 - Detects: engine knock, bearing noise, exhaust issues, overheating, hydraulic failure, thresher blockage
@@ -75,7 +75,7 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 
 ### Theme Control
 - Light / Dark / System (follows device)
-- Instant toggle — works on both Android and iOS
+- Instant toggle — works on both **Android and iOS**
 - Persisted across app restarts
 
 ---
