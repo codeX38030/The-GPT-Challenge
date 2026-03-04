@@ -252,9 +252,9 @@ Rice / Paddy · Wheat · Sugarcane · Tomato · Potato · Cotton · Grapes · Cu
 
 ## Hackathon
 
-Built for: **[Hackathon Name]**  
+Built for: **THE GPT CHALLENGE by Guru Gobind Singh Indraprastha University (GGSIPU), Delhi**  
 Track: Agricultural Technology / AI for Good  
-Team: farmphile AI  
+Team: codeX
 
 ---
 
