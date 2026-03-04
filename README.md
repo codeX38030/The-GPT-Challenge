@@ -1,7 +1,8 @@
 # 🌿 farmphile AI — Offline Agricultural Assistant
 
 <p align="center">
-  <img src="./assets/icon.png" alt="farmphile AI Logo" width="120" height="120" style="border-radius: 20px" />
+  <img width="150" height="175" alt="image" src="https://github.com/user-attachments/assets/97e9243e-ae20-4dbf-8881-234bb339da3d" />
+
 </p>
 
 <p align="center">
