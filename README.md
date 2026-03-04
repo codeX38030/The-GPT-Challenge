@@ -34,7 +34,7 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 <img width="260" height="540" alt="Machinery Sound Analysis" src="https://github.com/user-attachments/assets/cb261fec-26f5-4f78-beb7-37c7f14aead5" />
 <img width="260" height="540" alt="Database" src="https://github.com/user-attachments/assets/eed65451-3c3d-4fab-8409-fb4902e26622" />
 <img width="260" height="540" alt="Settings interface" src="https://github.com/user-attachments/assets/507cb17b-f490-4253-9739-31602eca8aca" />
-<img width="260" height="540" alt="image" src="https://github.com/user-attachments/assets/f28c28b1-fec2-408b-a6cb-d67f2a9e5ec3" />
+<img width="260" height="560" alt="image" src="https://github.com/user-attachments/assets/f28c28b1-fec2-408b-a6cb-d67f2a9e5ec3" />
 
 ---
 
