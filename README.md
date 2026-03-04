@@ -1,4 +1,4 @@
-# 🌿 farmphile AI — Offline Agricultural Assistant
+# 🌿 Farmphile AI — Offline Agricultural Assistant
 
 <p align="center">
   <img width="120" height="145" alt="image" src="https://github.com/user-attachments/assets/97e9243e-ae20-4dbf-8881-234bb339da3d" />
