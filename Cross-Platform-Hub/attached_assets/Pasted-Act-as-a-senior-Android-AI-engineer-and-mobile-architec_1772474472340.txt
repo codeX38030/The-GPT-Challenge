@@ -1,0 +1,106 @@
+Act as a senior Android AI engineer and mobile architect.
+
+Create a complete Android application using Kotlin (preferred) that works 100% offline and does NOT connect to any cloud server.
+
+App Name: farmphile AI 
+
+Concept:
+Build a farm and agricultural machinery assistant mobile app that provides instant AI-based diagnosis and solutions for:
+- Crop damage (leaf disease, pest attack, nutrient deficiency)
+- Soil quality issues
+- Agricultural machinery problems (abnormal engine sound, vibration issues)
+- Irrigation and plant health problems
+
+The app must:
+- Work completely offline
+- Have zero cloud dependency
+- Ensure 100% local data privacy
+- Use AnyWhere SDK from(https://github.com/RunanywhereAI/runanywhere-sdks)
+- Provide ultra-low latency responses
+- Process images and audio locally on device
+
+Core Features:
+
+1. 📷 Crop & Soil Analysis
+   - User clicks photo
+   - On-device ML model analyzes image
+   - Shows:
+     - Detected problem
+     - Causes
+     - Step-by-step solution
+     - Prevention tips
+
+2. 🎙 Machinery Sound Diagnosis
+   - User records 5–10 seconds of machinery sound
+   - On-device audio classification model detects issue
+   - Output:
+     - Problem type
+     - Severity level
+     - Likely causes
+     - Repair suggestion
+
+3. 🌾 Offline Knowledge Base(keep in mind it must work offline)
+   - Embedded structured database (Room or SQLite)
+   - Contains agricultural solutions mapped to model outputs
+
+4. ⚡ Ultra Low Latency Optimization
+   - Use TensorFlow Lite / ONNX Runtime / AnyWhere SDK acceleration
+   - Model quantization (INT8)
+   - Thread optimization
+   - Background processing with coroutines
+
+5. 🔐 Privacy Architecture(maintain the privacy)
+   - No internet permission in manifest
+   - No analytics SDK
+   - No cloud storage
+   - All data processed and deleted locally
+
+Technical Requirements:
+
+- Kotlin
+- MVVM architecture
+- Clean Material 3 UI
+- CameraX for image capture
+- AudioRecord API for sound capture
+- TensorFlow Lite / AnyWhere SDK integration
+- Room Database
+- Dependency Injection (Hilt)
+- Proper error handling
+- Fully commented beginner-friendly code
+
+Deliverables:
+
+1. Full project folder structure
+2. Complete AndroidManifest.xml
+3. Gradle dependencies
+4. Model integration example
+5. Image preprocessing pipeline
+6. Audio preprocessing pipeline (MFCC extraction)
+7. Inference pipeline code
+8. Local database schema
+9. Step-by-step setup instructions
+10. How to demo this in a hackathon
+11. Suggestions for future improvements
+
+Performance Constraints:
+
+- Inference time < 1 second
+- App size under 150MB
+- Works on low-end Android devices (4GB RAM)
+- Fully functional without internet
+
+UI Requirements:
+
+- Simple farmer-friendly UI
+- Medium size buttons
+- Regional language support ready
+- Dark and Light mode
+
+- ADD  liquid glass effect
+Also include:
+- Sample mock ML model integration
+- Placeholder model loading logic
+- Explanation of how to train and convert models to TFLite
+- How to test offline functionality
+
+Make it production-ready but understandable for a beginner developer.

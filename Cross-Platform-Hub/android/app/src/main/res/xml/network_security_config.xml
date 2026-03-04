@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Network Security Config for farmphile AI
+    Blocks ALL network traffic — fully offline app
+    No cleartext or encrypted traffic permitted
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <!-- No remote servers — all processing is on-device -->
+        </trust-anchors>
+    </base-config>
+</network-security-config>
