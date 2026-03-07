@@ -46,7 +46,7 @@ Farmers can photograph their crops, record machinery sounds, and access a curate
 
 **Downloadable APK ->** [Click Here](https://expo.dev/accounts/manishdebnath16/projects/farmaphileai/builds/b09f0298-11b7-4143-8e18-52bfb4fb7374)
 
-**Interface of APK**
+**Application Interface**
 
 <img width="260" height="540" alt="Landing page" src="https://github.com/user-attachments/assets/2afb27dd-49de-40f9-b775-68fe000fad61" />
 <img width="260" height="540" alt="Crop Detection Screen" src="https://github.com/user-attachments/assets/c396a0a1-7b00-4f60-b445-a1e182843111" />
