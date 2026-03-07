@@ -131,7 +131,7 @@ Use of RunAnywhere SDK
 
 Farmphile AI integrates the RunAnywhere SDK to enable efficient on-device AI inference directly on Android devices. The SDK allows machine learning models to run locally on the smartphone without requiring any cloud connectivity.
 
-**##The RunAnywhere SDK is used to execute optimized AI models for:**
+## The RunAnywhere SDK is used to execute optimized AI models for:
 
 1. Crop and Soil Image Analysis
 Images captured using the device camera are processed locally through an on-device model to detect crop diseases, pest damage, and nutrient deficiencies.
